@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21011531980",
+    "project_id": "alertdialog-235bc",
+    "storage_bucket": "alertdialog-235bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21011531980:android:5ddf73c689704e1794da69",
+        "android_client_info": {
+          "package_name": "com.example.alertdialog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBszIA97XiN06GxHvvEwP3L6Gfop_xIfvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
