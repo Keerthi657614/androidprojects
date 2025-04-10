@@ -44,7 +44,7 @@ public class ChatGptActivity extends AppCompatActivity {
     private NavigationView navigationView;
     private DatabaseReference databaseReference;
     private FirebaseUser currentUser;
-    private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAWYjqCazoBmeV9yEnoj_f3ORCv861WwiY";
+    private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=API_KEY";
     private String currentChatId;
 
     @Override
