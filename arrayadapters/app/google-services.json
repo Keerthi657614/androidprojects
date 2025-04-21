@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220095944477",
+    "project_id": "arrayadapters-3de6c",
+    "storage_bucket": "arrayadapters-3de6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220095944477:android:379ed12a91149dcd2233f4",
+        "android_client_info": {
+          "package_name": "com.example.arrayadapters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfln2JN3Okbbp9HuV9994snGesJGkSe8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
